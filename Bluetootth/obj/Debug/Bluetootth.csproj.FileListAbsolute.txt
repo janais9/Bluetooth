@@ -1,0 +1,17 @@
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\bin\Debug\Bluetootth.exe.config
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\bin\Debug\Bluetootth.exe
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\bin\Debug\Bluetootth.pdb
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\bin\Debug\InTheHand.Net.Bluetooth.dll
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\bin\Debug\InTheHand.Net.Bluetooth.xml
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.csproj.AssemblyReference.cache
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\MainWindow.baml
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\MainWindow.g.cs
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\App.g.cs
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth_MarkupCompile.cache
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.g.resources
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.Properties.Resources.resources
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.csproj.GenerateResource.cache
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.csproj.CoreCompileInputs.cache
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.csproj.Up2Date
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.exe
+C:\Users\jana-\source\repos\Bluetootth\Bluetootth\obj\Debug\Bluetootth.pdb
