@@ -65,12 +65,15 @@ Bluetootth
 >The application UI contains:
 - 🔍 Search Bluetooth Devices button
 - 📋 ListBox to display discovered devices
-  
+>  ![App Screenshot](https://raw.githubusercontent.com/janais9/Bluetooth/main/1.png)
+
 
 ---
 
 ##  👩‍💻 Developer Interface:
 >The application Program contains:
+>  ![App Screenshot](https://raw.githubusercontent.com/janais9/Bluetooth/main/2.png)
+
 
   
 
